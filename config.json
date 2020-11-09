@@ -1,0 +1,14 @@
+{
+    "token":"",
+    "prefix":"/",
+    "YOUTUBE_API_KEY":"AIzaSyA19M4ImBZeYej5ALCkJT1rLMvq1GyXvfQ",
+"MAX_PLAYLIST_SIZE": 10,
+    "PRUNING": false,
+    "embed":{
+        "color":"#FF69B4",
+        "footer":"Sapphire | NSFW Bot"
+    },
+    "administrators":[
+        "685506829228179515"
+    ]
+}
